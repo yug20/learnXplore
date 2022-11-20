@@ -1,0 +1,2978 @@
+@media only screen and (min-width: 1430px) {
+    .container {
+        max-width: 1290px;
+    }
+}
+
+@media only screen and (min-width: 1600px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .container {
+        max-width: 1630px;
+    }
+}
+
+@media only screen and (max-width: 1799px) {
+
+    /* about us css start */
+    div#mansarona .owl-nav button {
+        margin: 0;
+    }
+
+    ul.professionaltechears1 {
+        width : 1530px;
+        margin: auto;
+    }
+
+    div#mansarona .owl-nav {
+        top         : auto;
+        width       : 12%;
+        margin-right: 0;
+        bottom      : -100px;
+    }
+
+    /*     about us css end */
+    /* read blog page css start */
+    .viverrareadblog:before {
+        right: 280px;
+    }
+
+    /* read blog page  css end */
+    /* blog page css start */
+    .leptop {
+        width: 448px;
+    }
+
+    .years2022 {
+        margin-left: 159px;
+    }
+
+    /* blog page  css end */
+
+    .search {
+        margin-left: 30px;
+    }
+
+    .search input.searchbar {
+        width: 360px;
+    }
+
+    ul.online:before {
+        right : 50px;
+        bottom: 50px;
+    }
+
+    .royjune h4 {
+        display: flex !important;
+    }
+
+    .shannonboy img {
+        height: 295px;
+    }
+
+    .royjune img {
+        height: auto;
+    }
+
+    div#money .item {
+        margin: 0 20px;
+    }
+
+    .programme {
+        width: 334px;
+    }
+
+    .datejune {
+        margin-left: 47px;
+    }
+
+    header ul.navbar-nav.text-uppercase.ml-auto li.nav-item {
+        margin-left: 40px;
+    }
+
+    ul.lessons {
+        justify-content: space-evenly;
+    }
+
+}
+
+@media only screen and (max-width: 1599px) {
+
+    /* about us page css start */
+    div#mansarona .owl-nav button {
+        margin: 0 12px;
+    }
+
+    ul.professionaltechears1 {
+        width : 1331px;
+        margin: auto;
+    }
+
+    div#mansarona .owl-nav {
+        display: block;
+        right  : 0;
+        width  : auto;
+        top    : auto;
+        bottom : -101px;
+    }
+
+    /*     about us paghe css end */
+    /*read page css start  */
+    .viverrareadblog:before {
+        right: 181px;
+    }
+
+    /* read page  css end */
+    li.nav-item a.nav-link {
+        margin: 0 20px;
+    }
+
+    ul.topcat li {
+        width: 20%;
+    }
+
+    .datejune {
+        margin-left: 52px;
+    }
+
+    .royjune {
+        margin: 0 12px;
+    }
+
+    span.shape2 {
+        right : 81px;
+        bottom: -30px;
+    }
+
+    span.pacman {
+        right: 81px;
+    }
+
+    section.popularblog {
+        overflow: hidden;
+    }
+
+    ul.amet {
+        padding-left: 1rem;
+    }
+
+    footer {
+        padding-left : 20px;
+        padding-right: 20px;
+    }
+
+    .emailinput input {
+        width: 411px;
+    }
+
+    .tutor {
+        margin-left: 25px;
+    }
+
+    header ul.navbar-nav.text-uppercase.ml-auto li.nav-item {
+        margin-left: 0;
+    }
+
+    li.nav-item a.nav-link {
+        margin: 0 12px;
+    }
+}
+
+@media only screen and (max-width: 1429px) {
+
+    /*     contact us css start */
+    .learnxploreemail {
+        padding-left: 26px;
+    }
+
+    .nullacontact h2 {
+        font-size: 54px;
+    }
+
+    /*     contact us css end */
+    /*     about page css start */
+    .promotes {
+        height         : 700px;
+        background-size: cover;
+    }
+
+    ul.professionaltechears1 {
+        width        : 1091px;
+        padding-left : 0;
+        padding-right: 0;
+    }
+
+    .quotesofslider:before {
+        top : 30px;
+        left: -20px;
+    }
+
+    section.ourstory {
+        padding-top: 0;
+    }
+
+    section.ronamansa {
+        padding-bottom: 141px;
+    }
+
+    .quotesofslider:after {
+        bottom: -139px;
+        right : -30px;
+    }
+
+    /*     about page css end */
+
+    /*     blog page css start */
+    .leptop {
+        width: 371px;
+    }
+
+    .years2022 {
+        margin-left: 92px;
+    }
+
+    .blogroynina {
+        margin: 0 15px;
+    }
+
+    /*     blog page css end */
+    li.nav-item a.nav-link {
+        margin: 0;
+    }
+
+    .search input.searchbar {
+        width: 301px;
+    }
+
+    section.categories {
+        padding-top: 0;
+    }
+
+    .seacallcources {
+        margin-bottom: 30px;
+    }
+
+    .owner ul li {
+        margin-bottom: 13px;
+    }
+
+    section.popularblog {
+        padding-bottom: 0;
+    }
+
+    section.payment {
+        padding-top: 0;
+    }
+
+    .category a {
+        margin: 0 35px;
+    }
+
+    li.nav-item a.nav-link {
+        font-size: 14px;
+    }
+
+    .invest {
+        padding: 51px 50px 65px;
+    }
+
+    .future h1 {
+        font-size: 49px;
+    }
+
+    .future span {
+        font-size: 49px;
+    }
+
+    span.students {
+        right: 130px;
+        left : auto;
+    }
+
+    span.closebook {
+        left  : 59px;
+        top   : auto;
+        bottom: 80px;
+    }
+
+    ul.online:before {
+        right : 16px;
+        bottom: 58px;
+    }
+
+    .programme {
+        width  : 266px;
+        height : auto;
+        padding: 16px;
+    }
+
+    .choose {
+        max-width: 500px;
+    }
+
+    .cources {
+        padding-top: 40px;
+    }
+
+    ul.lessons {
+        justify-content: space-evenly;
+    }
+
+    ul.topcat li {
+        width: 22%;
+    }
+
+    ul.topcat {
+        justify-content: space-evenly !important;
+    }
+
+    .shannonboy img {
+        height: auto;
+    }
+
+    a.mathsvideo {
+        padding: 8px;
+    }
+
+    a.learningvideo {
+        padding: 8px;
+    }
+
+    span.sucessfully {
+        right : -76px;
+        width : 349px;
+        height: 244px;
+        top   : 160px;
+    }
+
+    span.earning {
+        width : 352px;
+        height: 245px;
+        bottom: -10px;
+    }
+
+    span.yellow1 {
+        bottom: -100px;
+        right : 22px;
+    }
+
+    span.shape3 {
+        right: 100px;
+    }
+
+    span.query {
+        left: -20px;
+    }
+
+    footer {
+        padding-right: 10px;
+        padding-left : 10px;
+    }
+
+    .emailinput input {
+        width: 332px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+
+    /*     conatct us page css start */
+    .nullacontact h2 {
+        font-size: 44px;
+    }
+
+    .enterthisvalue h4 {
+        font-size: 16px;
+    }
+
+    .enterthisvalue p {
+        margin-bottom: 5px;
+    }
+
+    .contentemailinput input {
+        width: 396px;
+    }
+
+    .contactinput {
+        width: 455px;
+    }
+
+    input.enterfullname {
+        width: 415px;
+    }
+
+    textarea#message {
+        width: 415px;
+    }
+
+    .submitform a {
+        width: 415px;
+    }
+
+    .nullacontact {
+        max-width    : 413px;
+        margin-bottom: 44px;
+    }
+
+    .contactinput {
+        padding: 20px;
+    }
+
+
+    /*     contact us css page end */
+    /* about us page css start */
+    .learningactive h1 {
+        font-size: 40px;
+    }
+
+    .learningactive span {
+        font-size: 40px;
+    }
+
+    .instructors2 p br {
+        display: none;
+    }
+
+    .instructors p br {
+        display: none;
+    }
+
+    ul.professionaltechears1 {
+        width: 910px;
+    }
+
+    section.professionaltechears {
+        padding-bottom: 10px;
+        padding-top   : 80px;
+    }
+
+    .quotesofslider {
+        padding-top: 30px;
+    }
+
+    .quotesofslider:before {
+        top : -9px;
+        left: -1px;
+    }
+
+    .quotesofslider:after {
+        bottom: -111px;
+        right : -10px;
+    }
+
+    .artschool {
+        padding: 35px 24px;
+    }
+
+    section.ourstory {
+        padding-bottom: 60px;
+    }
+
+    .promotes:before {
+        right: 110px;
+    }
+
+    .promotes {
+        height: 571px;
+    }
+
+    section.makes {
+        padding-top: 0;
+    }
+
+    .emailinput input {
+        width: 402px;
+    }
+
+    section.makes .luctus {
+        padding-top: 80px;
+    }
+
+    /*     about us page css end */
+    /*     read-blog page css start*/
+    .commodo h5 {
+        font-size  : 20px;
+        line-height: 27px;
+    }
+
+    .viverrareadblog:before {
+        right: 135px;
+    }
+
+    /*     read-blog page css end */
+    /* blog page css start  */
+    .leptop {
+        width: 460px;
+    }
+
+    .years2022 {
+        margin-left: 181px;
+    }
+
+    /* blog page css end */
+    section.popularblog .col-lg-6 {
+        flex: 0 0 100%;
+    }
+
+    .owner ul li {
+        padding      : 11px;
+        margin-bottom: 22px;
+    }
+
+    .owner {
+        margin-top: 40px;
+    }
+
+    section.popularblog section .col-lg-6 {
+        flex: 0 0 auto;
+    }
+
+    .category a {
+        margin: 0 13px;
+    }
+
+    section.popularblog .col-lg-3 {
+        flex     : 0 0 50%;
+        max-width: 100%;
+    }
+
+    .datejune {
+        margin-left: 207px;
+    }
+
+    .shannonboy img {
+        width: 100%;
+    }
+
+    .royjune img {
+        width : auto;
+        height: auto;
+    }
+
+    .search input.searchbar {
+        width: 182px;
+    }
+
+    .signlogin a.signup {
+        padding: 17px;
+    }
+
+    .signlogin a.login {
+        padding: 17px 23px;
+    }
+
+    ul.navbar-nav.text-uppercase.ml-auto {
+        margin: 0 10px;
+    }
+
+    a.navbar-brand img {
+        width: 138px;
+    }
+
+    span.congo {
+        width : 244px;
+        height: 64px;
+        right : -80px;
+    }
+
+    span.medal {
+        width : 200px;
+        height: 68px;
+    }
+
+    span.students {
+        width : 210px;
+        height: 99px;
+        right : 78px;
+    }
+
+    span.openbook {
+        width : 47px;
+        height: 47px;
+    }
+
+    span.closebook {
+        width : 53px;
+        height: 53px;
+        left  : 9px;
+        bottom: 60px;
+    }
+
+    .future h1 {
+        font-size: 40px;
+    }
+
+    .future span {
+        font-size: 40px;
+    }
+
+    a.playvideo {
+        padding      : 18px 50px;
+        padding-right: 21px;
+    }
+
+    span.pacman {
+        bottom: 30px;
+        right : 50px;
+    }
+
+    span.shape1 {
+        top: 10px;
+    }
+
+    .teaching img {
+        width : 52px;
+        height: 52px;
+    }
+
+    ul.online {
+        justify-content: space-around;
+    }
+
+    ul.online:before {
+        width          : 44px;
+        height         : 44px;
+        background-size: cover;
+    }
+
+    .programme {
+        width: 215px;
+    }
+
+    .choose h2 {
+        font-size: 40px;
+    }
+
+    span.learnxplore {
+        font-size: 40px;
+    }
+
+    ul.topcat li {
+        width: 26%;
+    }
+
+    .shannon {
+        padding: 10px;
+    }
+
+    .Subscribe {
+        display     : block;
+        margin-top  : -80px;
+        padding-left: 60px;
+    }
+
+    .royjune {
+        margin: 0 13px;
+        bottom: 15px;
+    }
+
+    .royjune img {
+        width : 33px;
+        height: 33px;
+    }
+
+    .social {
+        margin-top: 23px;
+    }
+
+    span.yellow1 {
+        width : 107px;
+        height: 106px;
+        bottom: -83px;
+    }
+
+    span.query {
+        left: 0;
+    }
+
+    span.earning {
+        left: -40px;
+    }
+
+    .girlfile {
+        padding-right: 10px;
+    }
+
+    span.shape3 {
+        right: 70px;
+        top  : 80px;
+    }
+
+    span.sucessfully {
+        width : 300px;
+        height: 206px;
+        right : -70px;
+    }
+
+    img.uploaded {
+        width : 432px;
+        height: 543px;
+    }
+
+    .readblog {}
+
+    .thistopsub h2 {
+        font-size: 40px;
+    }
+
+    .tutor h2 {
+        font-size: 40px;
+    }
+
+    div#navbarNav {
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+    /* contact us page css start */
+    .learnxploreemail {
+        height         : 1440px;
+        background-size: cover;
+        object-fit     : cover;
+        padding        : 0;
+    }
+
+    .enterthisvalue h4 {
+        font-size: 21px;
+    }
+
+    ul.socialicon {
+        justify-content: center;
+    }
+
+    ul.socialicon li {
+        margin-right: 32px;
+        margin-left : 0;
+    }
+
+    .enterthisvalue p {
+        margin: 0;
+    }
+
+    section.contact .col-lg-6:last-child {
+        order: -1;
+    }
+
+    section.contact {
+        padding-bottom: 40px;
+    }
+
+    .contactinput {
+        width: 550px;
+    }
+
+    .contactustolearn {
+        padding-left: 20px;
+        margin-top  : 30px;
+    }
+
+    .instaytouch {
+        padding-left: 20px;
+    }
+
+    input.enterfullname {
+        width: 100%;
+    }
+
+    textarea#message {
+        width: 100%;
+    }
+
+    .submitform a {
+        width: 100%;
+    }
+
+    .sociallink {
+        text-align: center;
+    }
+
+    /*     contact us end */
+    /* about us css start */
+    .promotes {
+        height      : 410px;
+        padding-left: 13px;
+    }
+
+    .playvideo2 {
+        left: 48%;
+    }
+
+    .quotesofslider:after {
+        bottom: -125px;
+        right : -10px;
+    }
+
+    .learningactive {
+        max-width: 500px;
+    }
+
+    .learningactive h1 {
+        font-size: 32px;
+    }
+
+    .learningactive span {
+        font-size: 32px;
+    }
+
+    .promotes:before {
+        right: 19px;
+    }
+
+    .stress {
+        margin-bottom: 44px;
+    }
+
+    .instructors {
+        margin    : auto;
+        margin-top: 10px;
+    }
+
+    .stress h2 {
+        font-size: 40px;
+    }
+
+    span.learnxplore {
+        font-size: 40px;
+    }
+
+    section.makes .luctus {
+        padding-top: 40px;
+    }
+
+    section.makes .row.align-items-center.luctus .col-lg-6:last-child {
+        order: -1;
+    }
+
+    .instructors2 {
+        margin-top: 10px !important;
+        margin    : auto;
+    }
+
+    ul.professionaltechears1 {
+        width: 744px;
+    }
+
+    section.ronamansa {
+        padding-top: 30px;
+    }
+
+    .artschool {
+        padding-bottom: 70px;
+    }
+
+    .story {
+        margin    : 0;
+        margin-top: 20px;
+    }
+
+    /*   about us css end   */
+    /*     read-blog page css start */
+    section.readmoreblog {
+        padding-top: 10px;
+    }
+
+    section.allblogs {
+        padding-top: 10px;
+    }
+
+    .blogtitle {
+        margin-bottom: 30px;
+    }
+
+    ul.physics {
+        margin-bottom: 45px !important;
+    }
+
+    .movetoback {
+        margin-bottom: 28px;
+    }
+
+    .viverrareadblog {
+        margin-top: 50px;
+    }
+
+    /*     read-blog page css end */
+    /* blog page css start */
+    ul.physics li button {
+        padding: 7px 20px !important;
+    }
+
+    .leptop {
+        width: 349px;
+    }
+
+    .years2022 {
+        margin-left: 70px;
+    }
+
+    /* blog page css end */
+    /* css */
+    .search {
+        margin-right: -70px;
+    }
+
+    ul.navbar-nav.text-uppercase.ml-auto {
+        justify-content: center !important;
+    }
+
+    section.popularblog .thistopsub {
+        padding-top: 0;
+    }
+
+    section.categories {
+        padding-bottom: 20px;
+    }
+
+    .seacallcources {
+        margin-bottom: 0;
+    }
+
+    div#navbarNav {
+        box-shadow: none;
+    }
+
+    li.nav-item a.nav-link {
+        display: block;
+    }
+
+    li.nav-item a.nav-link.active {
+        display: block;
+    }
+
+    li.nav-item a.nav-link.active:after {
+        bottom: 0px;
+    }
+
+    .signlogin {
+        display   : inline-flex;
+        margin-top: 20px;
+    }
+
+    .signlogin a.signup {
+        padding: 18px 30px;
+    }
+
+    .signlogin a.login {
+        padding: 18px 31px;
+    }
+
+    .search input.searchbar {
+        width: 331px;
+    }
+
+
+    .category a {
+        margin: 0px -60px;
+    }
+
+    ul.topcat li {
+        width: 31%;
+    }
+
+    .subject {
+        width : 237px;
+        height: auto;
+    }
+
+    section.investment .col-lg-6:last-child {
+        order: -1;
+    }
+
+    span.medal {
+        height: auto;
+        width : auto;
+    }
+
+    span.congo {
+        height: auto;
+        right : -40px;
+        width : auto;
+    }
+
+    span.students {
+        height: auto;
+        width : auto;
+        right : 204px;
+    }
+
+    span.pacman {
+        right : 70px;
+        bottom: 70px;
+    }
+
+    span.shape2 {
+        right: 130px;
+    }
+
+    span.closebook {
+        left  : 90px;
+        bottom: 130px;
+    }
+
+    span.shape1 {
+        left: 100px;
+        top : 30px;
+    }
+
+    .future {
+        margin-top: 90px;
+        max-width : 426px;
+    }
+
+    ul.online {
+        margin: 65px 0 11px;
+    }
+
+    .teaching h6 {
+        margin-left: 4px;
+    }
+
+    .teaching {
+        display   : block;
+        text-align: center;
+    }
+
+    .teaching img {
+        margin-bottom: 18px;
+    }
+
+    ul.online:before {
+        right : 0px;
+        bottom: 91px;
+    }
+
+    section.first {
+        padding-top: 73px;
+    }
+
+    .programme {
+        width        : 84%;
+        margin       : auto;
+        margin-bottom: 28px;
+    }
+
+    .choose {
+        margin-left: 0;
+    }
+
+    .cources {
+        padding-top: 70px;
+    }
+
+    ul.recently .nav-item .nav-link {
+        height: 53px;
+    }
+
+    .subject span {
+        height: 100px;
+        width : 100px;
+    }
+
+    section.popularblog .col-lg-3 {
+        flex     : 0 0 50%;
+        max-width: 100%;
+    }
+
+    .owner {
+        margin-top: 40px;
+    }
+
+    .owner ul li {
+        padding      : 13px;
+        margin-bottom: 21px;
+    }
+
+    section.popularblog section .col-lg-6:last-child {
+        order: -1;
+    }
+
+    .datejune {
+        margin-left: 102px;
+    }
+
+    .royjune {
+        margin      : 0 13px;
+        FONT-VARIANT: JIS04;
+        FONT-VARIANT: JIS04;
+    }
+
+    span.sucessfully {
+        height: auto;
+        width : auto;
+        right : -10px;
+        top   : 80px;
+    }
+
+    span.earning {
+        height: auto;
+        left  : 40px;
+        bottom: -60px;
+    }
+
+    span.yellow1 {
+        width : auto;
+        height: auto;
+        right : 90px;
+        bottom: -80px;
+    }
+
+    span.query {
+        left: 100px;
+        top : 200px;
+    }
+
+    span.shape3 {
+        right: 210px;
+        top  : 60px;
+    }
+
+    .tutor {
+        padding-top: 60px;
+    }
+
+    section.popularblog section {
+        padding-bottom: 80px;
+        padding-top   : 60px;
+    }
+
+    .Subscribe {
+        padding-top    : 110px;
+        display        : flex;
+        padding-left   : 0;
+        justify-content: space-around;
+    }
+
+    /**********  Responsive Menu Bootstrap **********/
+
+    /**  menu  **/
+    .toggler {
+        width           : 50px;
+        height          : 50px;
+        line-height     : 50px;
+        padding         : 0;
+        border-radius   : 5px;
+        background-color: #fff;
+        border          : 1px solid #7bc00b;
+        text-align      : center;
+        z-index         : 99;
+        display         : block;
+        transition      : all 0.5s;
+        margin-left     : 20px;
+    }
+
+    .show-menu .toggler {
+        width   : 40px;
+        height  : 40px;
+        position: fixed;
+        top     : 20px;
+        right   : 20px;
+        border  : none;
+    }
+
+    .toggler span {
+        position         : relative;
+        width            : 60%;
+        height           : 2px;
+        background-color : #7bc00b;
+        display          : inline-block;
+        vertical-align   : top;
+        top              : 50%;
+        -webkit-transform: translateY(-50%);
+        -moz-transform   : translateY(-50%);
+        -ms-transform    : translateY(-50%);
+        -o-transform     : translateY(-50%);
+        transform        : translateY(-50%);
+    }
+
+    .toggler span::before,
+    .toggler span::after {
+        position        : absolute;
+        content         : "";
+        width           : 100%;
+        height          : 2px;
+        background-color: #7bc00b;
+        right           : 0;
+        transition      : all 0.5s;
+        animation       : openCloseByeSpan 300ms linear forwards;
+    }
+
+    .toggler span::before {
+        top: -6px;
+    }
+
+    .toggler span::after {
+        top: 6px;
+    }
+
+    .show-menu .toggler span::before,
+    .show-menu .toggler span::after {
+        left     : 0;
+        right    : 0;
+        margin   : auto;
+        transform: rotate(45deg);
+        top      : -5px;
+    }
+
+    .show-menu .toggler span::after {
+        transform: rotate(-45deg);
+    }
+
+    .show-menu .toggler span {
+        height: 0;
+    }
+
+    #navbarNav {
+        background        : #ffffff url(../images/banner-img.png) no-repeat bottom right / auto 170px;
+        box-shadow        : 0 0px 0 10px #fff inset, 0 0 0 11px #7bc00b inset;
+        padding           : 60px 20px 15px;
+        position          : fixed;
+        top               : 0;
+        right             : 0;
+        display           : block !important;
+        width             : 100% !important;
+        text-align        : center;
+        bottom            : 0;
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition   : all 0.5s ease 0s;
+        -ms-transition    : all 0.5s ease 0s;
+        -o-transition     : all 0.5s ease 0s;
+        transition        : all 0.5s ease 0s;
+        -webkit-transform : translateX(110%);
+        -moz-transform    : translateX(110%);
+        -ms-transform     : translateX(110%);
+        -o-transform      : translateX(110%);
+        transform         : translateX(110%);
+        height            : auto !important;
+        overflow          : auto;
+    }
+
+    .show-menu #navbarNav {
+        -webkit-transform: translateX(0%);
+        -moz-transform   : translateX(0%);
+        -ms-transform    : translateX(0%);
+        -o-transform     : translateX(0%);
+        transform        : translateX(0%);
+    }
+
+    .show-menu .navbar-toggler {
+        position     : fixed;
+        z-index      : 5;
+        right        : 15px;
+        border-radius: 5px;
+        padding      : 2px;
+        top          : 15px;
+    }
+
+    .show-menu .navbar-toggler-icon {
+        background-image: url("../images/close.svg");
+        background-size : 14px auto;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0;
+    }
+
+    .navbar .navbar-nav .nav-link {
+        font-size  : 18px;
+        padding    : 10px 10px;
+        margin     : 0;
+        line-height: 1.2;
+    }
+
+    .navbar-nav .nav-link:hover {
+        color: #7bc00b;
+    }
+
+    .navbar-nav .active .nav-link {
+        color      : #7bc00b;
+        font-weight: bold;
+    }
+
+    .navbar-nav .nav-item .dropdown-item {
+        text-align: center;
+        padding   : 10px 10px;
+    }
+
+    .navbar-nav .dropdown-menu {
+        margin       : 0;
+        padding      : 0;
+        border-radius: 0;
+    }
+
+    /* Common Css must add */
+    .navbar-toggler svg {
+        height          : 40px;
+        position        : absolute;
+        width           : 40px;
+        cursor          : pointer;
+        /*   border     : 1px solid black; */
+        background-color: #fff;
+    }
+
+    .plate {
+        height: 40px;
+        width : 40px;
+    }
+
+    .burger {
+        filter: url(#gooeyness);
+    }
+
+    .x {
+        transform : scale(0);
+        transition: transform 400ms;
+    }
+
+    .line {
+        fill            : none;
+        stroke          : #000000;
+        stroke-width    : 6px;
+        stroke-linecap  : round;
+        stroke-linejoin : round;
+        transform-origin: 50%;
+        transition      : stroke-dasharray 500ms 200ms, stroke-dashoffset 500ms 200ms,
+            transform 500ms 200ms;
+    }
+
+    .x .line {
+        stroke-width: 5.5px;
+    }
+
+    /* Common Css must add end */
+
+    /* Forth Menu Css */
+    .plate4 .x {
+        transition: transform 400ms;
+    }
+
+    .plate4 .line {
+        transform-origin: 50%;
+        transition      : transform 400ms 100ms;
+    }
+
+    .active.plate4 .line {
+        transition: transform 400ms;
+    }
+
+    .active.plate4 .line1 {
+        transform: translateX(18px) translateY(-3px) rotate(-45deg) scale(0.7);
+    }
+
+    .active.plate4 .line2 {
+        transform: translateX(-18px) translateY(-3px) rotate(45deg) scale(0.7);
+    }
+
+    .active.plate4 .line3 {
+        transform: translateY(0px) rotate(45deg) scale(0.7);
+    }
+
+    .active.plate4 .line4 {
+        transform: translateY(0px) rotate(-45deg) scale(0.7);
+    }
+
+    .active.plate4 .line5 {
+        transform: translateX(18px) translateY(3px) rotate(45deg) scale(0.7);
+    }
+
+    .active.plate4 .line6 {
+        transform: translateX(-18px) translateY(3px) rotate(-45deg) scale(0.7);
+    }
+
+    .active.plate4 .x {
+        transition: transform 400ms 100ms;
+        transform : scale(1);
+    }
+
+    button.navbar-toggler {
+        padding  : 0;
+        position : absolute;
+        top      : 50%;
+        right    : 30px;
+        transform: translateY(-50%);
+        width    : 40px;
+        height   : 40px;
+        z-index  : 99999;
+    }
+
+    span.navbar-toggler-icon {
+        width : 40px;
+        height: 40px;
+    }
+
+    .navbar-toggler svg {
+        left: 0;
+        top : 0;
+    }
+
+    .show-menu .navbar-toggler {
+        position : absolute;
+        top      : 50%;
+        transform: translateY(-50%);
+        z-index  : 9999;
+        right    : 30px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+
+    /**  Menu  **/
+
+    /**********  Responsive Menu  **********/
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+    /*     contact us css start */
+    .contactinput {
+        margin: auto;
+        width : 461px;
+    }
+
+    ul.socialicon {
+        justify-content: flex-start;
+    }
+
+    section.contact .contactustolearn .row .col-sm-6:last-child {
+        width: auto;
+        flex : 0 0 50%;
+    }
+
+    section.contact .contactustolearn .row .col-sm-6:first-child {
+        flex : 0 0 50%;
+        width: auto;
+    }
+
+
+    .contentemailinput .send a {
+        padding: 12px 29px;
+    }
+
+    .contentemailinput .send {
+        right: 5px;
+    }
+
+    .instaytouch {
+        padding-left: 0;
+    }
+
+    .contactustolearn {
+        padding-left: 15px;
+    }
+
+    .learnxploreemail {
+        padding: 0;
+        height : 1461px;
+    }
+
+    section.contact {
+        padding-bottom: 40px;
+    }
+
+    .sociallink {
+        text-align: start;
+    }
+
+    .contentemailinput input {
+        width : 350px;
+        height: 58px;
+    }
+
+    .nullacontact h2 {
+        font-size: 35px;
+    }
+
+    .enterthisvalue h4 {
+        font-size: 22px;
+    }
+
+    .instaytouch h3 {
+        font-size    : 34px;
+        margin-bottom: 5px;
+    }
+
+    /*     contact us css end */
+    /* about us css start */
+    .learningactive {
+        max-width: 430px;
+    }
+
+    .promotes {
+        height: 350px;
+    }
+
+    .learningactive h1 {
+        font-size: 28px;
+    }
+
+    .learningactive span {
+        font-size: 28px;
+    }
+
+    .learningactive p {
+        font-size: 15px;
+    }
+
+    section.active .contant1 a {
+        padding  : 13px 18px;
+        font-size: 15px;
+    }
+
+    .learningactive p {
+        margin-bottom: 15px;
+    }
+
+    .stress h2 {
+        font-size: 28px;
+        margin   : 0;
+    }
+
+    section.makes .stress h2 span.learnxplore {
+        font-size: 28px;
+    }
+
+    section.active {
+        padding-bottom: 15px;
+    }
+
+    .stress {
+        margin-bottom: 22px;
+    }
+
+    .instructors {
+        margin: 0;
+    }
+
+    .instructors2 {
+        margin: 0;
+    }
+
+    .instructors h3 {
+        font-size: 30px;
+        margin   : 0;
+    }
+
+    .instructors2 h3 {
+        font-size: 30px;
+        margin   : 0;
+    }
+
+    section.professionaltechears {
+        padding-top: 40px;
+    }
+
+    ul.professionaltechears1 {
+        display: block;
+        width  : 330px;
+        padding: 36px;
+    }
+
+    .professional p {
+        text-align: center !important;
+        display   : block;
+    }
+
+    div#mansarona .owl-nav button {
+        padding: 10px !important;
+    }
+
+    div#mansarona .owl-nav {
+        bottom: -70px;
+    }
+
+    section.ronamansa {
+        padding-bottom: 90px;
+    }
+
+    section.ronamansa span.learnxplore {
+        font-size: 28px;
+    }
+
+    .headofmansa h4 {
+        font-size: 30px;
+    }
+
+    .headofmansa {
+        margin-top: 21px;
+    }
+
+    .story h2 {
+        font-size: 30px;
+    }
+
+    section.ourstory span.learnxplore {
+        font-size: 30px;
+    }
+
+    section.ourstory a.getstarted {
+        padding  : 13px 18px;
+        font-size: 15px;
+    }
+
+    .story p {
+        margin-bottom: 17px;
+    }
+
+    section.ourstory {
+        padding-bottom: 34px;
+    }
+
+    .professional {
+        margin-bottom: 21px;
+    }
+
+    /*  about us css end    */
+    /*     read-blog page css start */
+    .magnaor h4 {
+        font-size: 32px;
+    }
+
+    .viverrareadblog:before {
+        right: 20px;
+    }
+
+    /*     read-blog page css end */
+    /*     blog page css start */
+    .leptop {
+        width: auto;
+    }
+
+    .dance {
+        overflow: auto;
+    }
+
+    ul.physics {
+        flex-wrap: nowrap;
+        min-width: 720px;
+    }
+
+    .dance::-webkit-scrollbar {
+        display: none;
+    }
+
+    section.allblogs {
+        padding-top: 10px;
+    }
+
+    .blogtitle {
+        margin-bottom: 28px;
+    }
+
+    ul.physics {
+        margin-bottom: 24px !important;
+    }
+
+    ul.physics li {
+        margin-bottom: 20px;
+    }
+
+    .headphone:before {
+        right: 100px;
+    }
+
+    .years2022 {
+        margin-left: 234px;
+    }
+
+    ul.boylearning {
+        justify-content: space-evenly;
+    }
+
+    /*     blog page css end */
+    .search input.searchbar {
+        width        : 250px;
+        padding-right: 6px !important;
+    }
+
+    ul.recently .nav-item .nav-link {
+        width: 232px;
+    }
+
+    ul.recently {
+        width          : 486px;
+        padding        : 4px;
+        justify-content: space-between;
+    }
+
+    ul.recently .nav-item {
+        padding: 1px;
+    }
+
+    ul.recently:after {
+        display: none;
+    }
+
+    ul.recently .nav-item .nav-link {
+        font-size: 16px !important;
+    }
+
+    ul.topcat li {
+        width: 40%;
+    }
+
+    .watchlist {
+        width        : 270px;
+        padding      : 13px;
+        margin-bottom: 11px;
+    }
+
+    ul.lessons {
+        justify-content: space-between;
+    }
+
+    .subject {
+        margin-bottom: 15px;
+    }
+
+    a.learningvideo {
+        padding: 4px;
+    }
+
+    a.mathsvideo {
+        padding     : 4px;
+        margin-right: 7px;
+    }
+
+    .datejune {
+        margin-left: 18px;
+    }
+
+    .royjune {
+        margin: 0 6px;
+    }
+
+    .shannon {
+        padding: 8px;
+    }
+
+    .owner ul li {
+        padding: 8px;
+    }
+
+    span.shape3 {
+        right: 100px;
+    }
+
+    span.yellow1 {
+        right : 20px;
+        bottom: -100px;
+    }
+
+    span.earning {
+        width : 352px;
+        height: 245px;
+        left  : -20px;
+        bottom: -38px;
+    }
+
+    span.sucessfully {
+        width : 199px;
+        height: 174px;
+        top   : 158px;
+        right : 6px;
+    }
+
+    span.query {
+        left  : 30px;
+        height: 50px;
+        width : 50px;
+    }
+
+    footer .col-lg-6 .row .col-md-4 {
+        flex     : 0 0 33%;
+        max-width: 100%;
+    }
+
+    .Subscribe {
+        display: block;
+    }
+
+    .copy {
+        margin-top: 31px;
+    }
+
+    .search {
+        margin-left : 0;
+        margin-right: -20px;
+    }
+
+    span.openbook {
+        height: 40px;
+        width : 40px;
+    }
+
+    span.closebook {
+        height: 40px;
+        width : 40px;
+    }
+
+    span.medal {
+        width : 203px;
+        height: 76px;
+    }
+
+    span.congo {
+        width : 272px;
+        height: 74px;
+    }
+
+    span.students {
+        width : 210px;
+        height: 113px;
+        right : 100px;
+    }
+
+    span.pacman {
+        width : 105px;
+        height: 105px;
+        bottom: -70px;
+        right : -27px;
+    }
+
+    span.shape2 {
+        right: 81px;
+    }
+
+    .teaching {
+        width : 50%;
+        margin: auto;
+    }
+
+    ul.online {
+        justify-content: space-between;
+    }
+
+    ul.online:before {
+        right: -8px;
+        top  : -40px;
+    }
+
+    .send {
+        right: 138px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+
+    /* contact us css start */
+    .contactinput {
+        width  : 421px;
+        padding: 15px;
+    }
+
+    .instaytouch {
+        margin-top: 10px;
+    }
+
+    .enterthisvalue {
+        margin-bottom: 30px;
+    }
+
+    .emailaddress {
+        display      : block;
+        margin-bottom: -28px;
+    }
+
+    .sociallink {
+        margin-top: 21px;
+    }
+
+    .learnxploreemail {
+        height: 1401px;
+    }
+
+    .instaytouch h3 {
+        font-size: 30px;
+    }
+
+    /*     contact us css end */
+    /* about us page css start */
+    .promotes:before {
+        width          : 44px;
+        height         : 44px;
+        background-size: cover;
+    }
+
+    .promotes {
+        padding-left: 5px;
+    }
+
+    .playvideo2 {
+        left: 44%;
+    }
+
+    /*     about us page css end */
+    /*     read-blog page  css start */
+    .luctusroynina p {
+        margin-right: 11px;
+    }
+
+    section.readmoreblog {
+        padding-bottom: 0px;
+    }
+
+    /*     read-blog page css end */
+    /*     blog page css start */
+    .blogtitle h2 {
+        font-size: 40px;
+    }
+
+    section.allblogs {
+        padding-top: 0;
+    }
+
+    .blogtitle {
+        margin-bottom: 25px;
+    }
+
+    ul.physics {
+        margin-bottom: 5px !important;
+    }
+
+    .years2022 {
+        margin-left: 147px;
+    }
+
+    /*     blog page css end */
+    .search input.searchbar {
+        width: 0;
+    }
+
+    .search {
+        margin-right: -110px;
+    }
+
+    span.openbook {
+        right: 0;
+        top  : 50px;
+    }
+
+    span.closebook {
+        left  : 50px;
+        bottom: 80px;
+    }
+
+    span.pacman {
+        right : -34px;
+        bottom: -109px;
+    }
+
+    span.shape2 {
+        display: none;
+    }
+
+    span.students {
+        right: 72px;
+    }
+
+    span.congo {
+        width : 160px;
+        height: 60px;
+        top   : 181px;
+    }
+
+    span.shape1 {
+        left: 50px;
+    }
+
+    span.medal {
+        top   : 120px;
+        left  : -10px;
+        height: 71px;
+        width : 141px;
+    }
+
+    .invest {
+        padding-right: 45px;
+        padding-left : 17px;
+    }
+
+    .teaching {
+        width: 100%;
+    }
+
+    .teaching h6 {
+        font-size: 14px;
+    }
+
+    .teaching img {
+        margin-bottom: 8px;
+    }
+
+    ul.online:before {
+        top  : -50px;
+        right: 0;
+    }
+
+    ul.amet {
+        padding: 0;
+    }
+
+    .programme {
+        width      : 96%;
+        margin-left: 0;
+    }
+
+    ul.amet li {
+        width: 70%;
+    }
+
+    li.membership .programme {
+        margin-left: 10px;
+    }
+
+    ul.recently {
+        width: 450px;
+    }
+
+    ul.recently .nav-item .nav-link {
+        width    : 213px !important;
+        font-size: 15px !important;
+    }
+
+    ul.lessons {
+        display: block;
+    }
+
+    .watchlist {
+        margin       : auto;
+        margin-bottom: 15px;
+        width        : 321px;
+        padding      : 14px;
+    }
+
+    section.categories .thistopsub {
+        padding-top: 60px;
+    }
+
+    ul.topcat li {
+        width: 50%;
+    }
+
+    .subject {
+        width: 218px;
+    }
+
+    span.sucessfully {
+        right: -24px;
+    }
+
+    span.earning {
+        left: -40px;
+    }
+
+    span.yellow1 {
+        right: 0px;
+    }
+
+    .tutor {
+        margin: 0;
+    }
+
+    .support {
+        justify-content: space-around;
+    }
+
+    .shannon {
+        margin-bottom: 20px;
+        padding      : 10px;
+    }
+
+    section.popularblog .col-lg-3 {
+        flex: 0 0 100%;
+    }
+
+    .royjune {
+        margin: 0 20px;
+    }
+
+    .datejune {
+        margin-left: 184px;
+    }
+
+    .subject span {
+        height: 90px;
+        width : 90px;
+    }
+
+    span.shape3 {
+        right: 61px;
+    }
+
+    .girlfile {
+        padding: 0;
+    }
+
+    span.earning {
+        width : 281px;
+        height: 291px;
+        left  : -19px;
+        bottom: -80px;
+    }
+
+    span.query {
+        left: 10px;
+    }
+
+    .emailinput input {
+        width: 350px;
+    }
+
+    .copy p {
+        font-size: 13px;
+    }
+
+    .copy p:last-child {
+        text-align: end;
+    }
+
+    .send {
+        right: 93px;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+
+    /*     contact us css start */
+    .contactinput {
+        width  : 329px;
+        padding: 10px;
+    }
+
+    .nullacontact {
+        max-width    : 311px;
+        margin-bottom: 30px;
+    }
+
+    .instaytouch {
+        padding   : 0;
+        margin-top: 0;
+    }
+
+    .contantenteremail span {
+        top: 53%;
+    }
+
+    .contentemailinput input {
+        width : 295px;
+        height: 56px;
+    }
+
+    .contantenteremail {
+        margin-bottom: 15px;
+    }
+
+    .submitform {
+        margin-top: 20px;
+    }
+
+    .enterthisvalue span {
+        padding      : 12px;
+        border-radius: 16px;
+    }
+
+    .instaytouch p {
+        margin-bottom: 15px;
+    }
+
+    .contentemailinput .send a {
+        padding: 11px 28px;
+    }
+
+    .learnxploreemail {
+        height: 1271px;
+    }
+
+    input.enterfullname {
+        width: 100%;
+    }
+
+    textarea#message {
+        width : 100%;
+        height: 170px;
+    }
+
+    .submitform a {
+        width : auto;
+        height: 52px;
+    }
+
+    .enterthisvalue h4 {
+        font-size: 19px;
+    }
+
+    .instaytouch h3 {
+        font-size: 30px;
+        margin   : 0;
+    }
+
+    .nullacontact h2 {
+        font-size: 30px;
+        margin   : 0;
+    }
+
+    /*     conatact us css end */
+    /* about us css start */
+    .stress h2 {
+        font-size: 26px;
+    }
+
+    .playvideo2 a span svg {
+        height: 45px;
+    }
+
+    section.makes .stress h2 span.learnxplore {
+        font-size: 26px;
+    }
+
+    .instructors h3 {
+        font-size: 26px;
+    }
+
+    .instructors2 h3 {
+        font-size: 26px;
+    }
+
+    .headofmansa h4 {
+        font-size: 26px;
+    }
+
+    /*     about us css end */
+    /*     read-blog page css start */
+    .signlogin a.signup {
+        padding: 15px 16px !important;
+    }
+
+    .signlogin a.login {
+        padding: 10px 23px !important;
+    }
+
+    .readblogelearning {
+        display   : block;
+        margin-top: 20px;
+    }
+
+    .viverrareadblog:before {
+        background-size: contain;
+        width          : 44px;
+    }
+
+    .luctusroynina {
+        margin-top: 20px;
+    }
+
+    ul.ultrices li {
+        margin-bottom: 20px;
+    }
+
+    section.readmoreblog {
+        padding-top: 0;
+    }
+
+    a.readbloglearning2 {
+        display: inline-block;
+    }
+
+    .luctusroynina img {
+        margin: 0;
+    }
+
+    .magnaor h4 {
+        font-size  : 30px;
+        line-height: 49px;
+    }
+
+    ul.ultrices li {
+        padding: 10px;
+    }
+
+    .commodo h5 {
+        font-size: 17px;
+    }
+
+    /*     read-blog page css end */
+    /* blog page css start */
+    .blogtipton h3 {
+        font-size: 17px;
+    }
+
+    .blogtitle h2 {
+        font-size: 35px;
+    }
+
+    .leptop {
+        padding      : 10px;
+        margin-bottom: 25px;
+    }
+
+    .headphone {
+        padding: 10px;
+    }
+
+    .blogroynina {
+        margin: 0 8px;
+    }
+
+    .years2022 {
+        margin-left: 76px;
+    }
+
+    .headphone:before {
+        right          : 50px;
+        width          : 45px;
+        height         : 45px;
+        background-size: cover;
+    }
+
+    /*     blog page css end */
+    .subject {
+        width: 175px;
+    }
+
+    .programme img {
+        height       : 52px;
+        width        : 52px;
+        margin-bottom: 10px;
+    }
+
+    ul.recently .nav-item .nav-link {
+        height: 50px;
+    }
+
+    .programme {
+        padding: 12px;
+    }
+
+    .subject {
+        padding: 32px 0;
+    }
+
+    .subject span svg {
+        height: 35px;
+    }
+
+    .subject span {
+        height: 65px;
+        width : 65px;
+    }
+
+    .subject h4 {
+        font-size      : 16px;
+        justify-content: center;
+    }
+
+    a.signup {
+        padding: 16px 19px !important;
+    }
+
+    a.login {
+        padding: 16px 19px !important;
+    }
+
+    .watchlist {
+        width  : 350px;
+        padding: 11px;
+    }
+
+    ul.online {
+        margin: 30px 0 -8px;
+    }
+
+    ul.online:before {
+        top: -10px;
+    }
+
+    .cources {
+        padding-top: 50px;
+    }
+
+    section.categories .thistopsub {
+        padding-top  : 30px;
+        margin-bottom: 30px;
+    }
+
+    section.popularblog {
+        padding-top: 25px;
+    }
+
+    section.popularblog .thistopsub {
+        margin-bottom: 30px;
+    }
+
+    section.popularblog section {
+        padding: 22px 0px;
+    }
+
+    .thistopsub {
+        margin-bottom: 30px;
+    }
+
+    section.payment {
+        padding-bottom: 31px;
+    }
+
+    ul.home li a {
+        font-size: 14px;
+    }
+
+    .search {
+        margin-left: -60px;
+    }
+
+    .category a {
+        margin: 0 -80px;
+    }
+
+    .future h1 {
+        font-size: 30px;
+    }
+
+    .future span {
+        font-size: 30px;
+    }
+
+    .choose h2 {
+        font-size: 30px;
+    }
+
+    span.learnxplore {
+        font-size: 30px;
+    }
+
+    .thistopsub h2 {
+        font-size: 30px;
+    }
+
+    .tutor h2 {
+        font-size: 30px;
+        margin   : 0;
+    }
+
+    .footlogo img {
+        width : 144px;
+        height: 45px;
+    }
+
+    footer {
+        padding-top: 30px;
+    }
+
+    .emailinput input {
+        width : 330px;
+        height: 55px;
+    }
+
+    span.emailicon {
+        left: 16px;
+    }
+
+    .send a {
+        padding: 10px 29px;
+    }
+
+    .send {
+        right: 6px;
+    }
+
+    .emailinput input {
+        padding-left: 54px;
+    }
+
+    .copy {
+        display: block;
+    }
+
+    .copy p {
+        text-align   : left !important;
+        margin-bottom: 12px;
+    }
+
+    ul.topcat {
+        display: flex;
+    }
+
+    ul.topcat li {
+        margin: auto;
+        width : 50%;
+    }
+
+    .datejune {
+        margin-left: 91px;
+    }
+
+    .royjune {
+        margin: 0 13px;
+    }
+
+    .owner {
+        margin-top: 0;
+    }
+
+    a.mathsvideo {
+        padding: 7px;
+    }
+
+    a.learningvideo {
+        padding: 7px;
+    }
+
+    .seacallcources {
+        margin-top: 20px;
+    }
+
+    .startteaching a {
+        padding: 9px 14px;
+    }
+
+    .support {
+        display   : block;
+        margin-top: 40px;
+    }
+
+    .support2 img {
+        margin: 0;
+    }
+
+    .support2 {
+        margin-bottom: 10px;
+    }
+
+    .support2 h3 {
+        margin-left: 12px;
+    }
+
+    .tryforfree button {
+        padding: 12px 25px;
+    }
+
+    .single img {
+        width : 50px !important;
+        height: 50px;
+    }
+
+    .seacallcources a {
+        padding: 13px 14px;
+    }
+
+    .next a {
+        padding: 12px 11px;
+    }
+
+    a.getstarted {
+        padding: 11px;
+    }
+
+    ul.recently {
+        width        : 352px;
+        margin-bottom: 40px !important;
+    }
+
+    ul.recently .nav-item .nav-link {
+        width    : 169px !important;
+        padding  : 0;
+        font-size: 13px !important;
+    }
+
+    a.mathsvideo2 {
+        padding: 8px;
+    }
+
+    a.learningvideo2 {
+        padding: 8px;
+    }
+
+    img.uploaded {
+        width : 312px;
+        height: 414px;
+    }
+
+    span.yellow1 {
+        display: none;
+    }
+
+    span.query {
+        display: none;
+    }
+
+    span.earning {
+        height: 200px;
+        width : auto;
+        left  : 70px;
+    }
+
+    span.sucessfully {
+        display: none;
+    }
+
+    .shannonboy img {
+        height: 250px;
+    }
+
+    .royjune img {
+        height: auto;
+    }
+
+    .subject span {
+        margin-bottom: 10px;
+    }
+
+    button.navbar-toggler {
+        right: 15px;
+    }
+
+    a.playvideo {
+        padding      : 14px 36px;
+        padding-right: 15px;
+    }
+
+    a.playvideo span {
+        left: 22px;
+    }
+
+    span.closebook {
+        display: none;
+    }
+
+    span.congo {
+        display: none;
+    }
+
+    span.shape1 {
+        top : 0;
+        left: 30px;
+    }
+
+    span.students {
+        right : 69px;
+        width : 150px;
+        height: auto;
+        bottom: -40px;
+    }
+
+    span.medal {
+        top: 81px;
+    }
+
+    .future {
+        margin-top: 60px;
+    }
+
+    .invest {
+        padding-bottom: 31px;
+    }
+
+    ul.amet {
+        display: block;
+    }
+
+    ul.amet li {
+        margin: auto;
+    }
+
+    li.membership {
+        padding: 0 !important;
+    }
+
+    .programme {
+        width: 100%;
+    }
+
+    ul.amet li {
+        width: 99%;
+    }
+
+    li.membership .programme {
+        margin-left: 0;
+    }
+
+    .Subscribe {
+        padding-top: 90px;
+    }
+
+    .teaching {
+        margin-bottom: 10px;
+        display      : flex;
+        align-items  : center;
+    }
+
+    ul.online {
+        display: block;
+    }
+
+    .teaching h6 {
+        justify-content: center;
+    }
+
+    .teaching img {
+        margin: 0;
+    }
+
+    .teaching h6 {
+        margin-left: 8px;
+    }
+
+    section.first {
+        padding-top: 40px;
+    }
+
+    section.investment {
+        padding-bottom: 40px;
+        padding-top   : 10px;
+    }
+
+    a.getstarted {
+        font-size: 15px;
+    }
+
+    a.playvideo {
+        font-size: 15px !important;
+    }
+
+    .teaching h6 {
+        font-size: 16px;
+    }
+
+    .next a {
+        font-size: 15px;
+    }
+
+    .seacallcources a {
+        font-size: 15px;
+    }
+
+    .startteaching a {
+        font-size: 15px;
+    }
+
+    .send a {
+        font-size: 15px;
+    }
+
+    .tryforfree button {
+        font-size: 16px;
+    }
+
+    .subject h4 {
+        font-size: 19px;
+    }
+
+    .rebe h4 {
+        font-size  : 17px;
+        line-height: 22px;
+    }
+
+    .monthly {
+        padding: 12px;
+    }
+
+    div#money .item {
+        margin: 0 10px;
+    }
+
+    .lorem {
+        margin-bottom: 7px;
+    }
+}
+
+@media only screen and (max-width: 349px) {
+
+    /* conatct us css start */
+    .contactinput {
+        width: 281px;
+    }
+
+    .nullacontact {
+        max-width: 291px;
+    }
+
+    .enterthisvalue h4 {
+        font-size: 18px;
+    }
+
+    .contentemailinput input {
+        width: 269px;
+    }
+
+    .learnxploreemail {
+        height: 1321px;
+    }
+
+    .emailaddress {
+        margin-bottom: 25px;
+    }
+
+    .instaytouch {
+        margin-top: 20px;
+    }
+
+    /*     conatact us css end */
+    /* about us css start */
+    .learningactive h1 {
+        font-size: 25px;
+    }
+
+    .learningactive span {
+        font-size: 25px;
+    }
+
+    .stress h2 {
+        line-height: 43px;
+    }
+
+    ul.professionaltechears1 {
+        width: 298px;
+    }
+
+    .story h2 {
+        font-size: 26px;
+    }
+
+    section.ourstory span.learnxplore {
+        font-size: 26px;
+    }
+
+    /*     about us css end */
+    /*     read-blog page css start */
+    a.readblogelearning3 {
+        padding: 6px;
+    }
+
+    .magnaor h4 {
+        font-size  : 26px;
+        line-height: 41px;
+    }
+
+    a.readblogmaths3 {
+        padding     : 6px;
+        margin-right: 10px;
+    }
+
+    /*     read-blog page css end */
+    /*     blog page css start */
+    .headphone {
+        padding: 8px;
+    }
+
+    .leptop {
+        padding: 8px;
+    }
+
+    a.blogmaths3 {
+        font-size: 13px;
+        padding  : 8px;
+    }
+
+    a.blogmaths4 {
+        padding  : 8px;
+        font-size: 13px;
+    }
+
+    .blogmoreread a {
+        font-size: 16px;
+    }
+
+    .years2022 {
+        margin-left: 35px;
+    }
+
+    .blogroynina {
+        margin: 0 5px;
+    }
+
+    /*     blog page css end */
+    .subject {
+        width: 200px;
+    }
+
+    .search {
+        margin-left: -120px;
+    }
+
+    ul.topcat {
+        display: block;
+    }
+
+    ul.topcat li {
+        width: 100%;
+    }
+
+    .watchlist {
+        width: 294px;
+    }
+
+    .invest {
+        padding: 40px 10px;
+    }
+
+    span.openbook {
+        right: 4px;
+    }
+
+    span.medal {
+        display: none;
+    }
+
+    span.pacman {
+        display: none;
+    }
+
+    ul.recently {
+        width: 291px;
+    }
+
+    ul.recently .nav-item .nav-link {
+        width: 137px !important;
+    }
+
+    ul.recently .nav-item .nav-link {
+        font-size  : 12px !important;
+        line-height: 20px !important;
+    }
+
+    .emailinput input {
+        width: 278px;
+    }
+
+    span.shape3 {
+        right: 30px;
+    }
+
+    span.earning {
+        left: 38px;
+    }
+
+    .datejune {
+        margin-left: 47px;
+    }
+
+    .royjune {
+        margin: 0 8px;
+    }
+
+    a.mathsvideo2 {
+        margin-right: 6px;
+    }
+
+    .support {
+        margin-top: 40px;
+    }
+
+    section.popularblog section {
+        padding-bottom: 30px;
+    }
+
+    .send {
+        right: 2px;
+    }
+}
